@@ -32,12 +32,11 @@ Numota is a user-friendly website that allows users to input a number, including
 
 ## 🎥 Demo
 
-![Numota Demo](demo.gif)
+Live Demo :- https://nahid-hasan-web.github.io/Numta/
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+<img src="https://i.ibb.co/vYGFYt0/Screenshot-44.png" alt="Demo image of website" >
 
 ## ⚙️ Installation
 
@@ -45,4 +44,4 @@ To use Numota locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[username]/[repository].git
+   git clone https://github.com/Nahid-hasan-web/Numta.git
